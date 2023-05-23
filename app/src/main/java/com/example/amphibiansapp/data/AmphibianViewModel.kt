@@ -9,7 +9,7 @@ import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.AP
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.example.amphibiansapp.ui.AmphibianApplication
+import com.example.amphibiansapp.AmphibianApplication
 import kotlinx.coroutines.launch
 import retrofit2.HttpException
 import java.io.IOException
